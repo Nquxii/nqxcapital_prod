@@ -1,0 +1,59 @@
+{
+  "title": "2024 Year in Review",
+  "date": "2024-12-25T00:00:00.000Z",
+  "tags": [
+    "stock-market",
+    "prediction markets",
+    "polymarket"
+  ],
+  "lastmod": "2024-12-25T00:00:00.000Z",
+  "draft": false,
+  "summary": null,
+  "images": [],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\n# Score\nYear end stats: \n\n- Net worth change from initial investment: -13.29%\n- Net worth change from peak: -49.6%\n- Net worth change from peak to trough: -72.81%\n\nYtd performance summary:\nDiscovered betting, did very well (~5x from initial deposit)\n\nWent way too hard on two bets that eroded 54% of my portfolio (including gains)\n\nBet way too hard on subsequent bets, cascading losses\n\nTook a break, made some back\n\nNow sitting at ~-10% from the start.\n\n\n---\n# future notes\nIt's all about decision making.\n\nYou won't always be right, so bet low to prevent losing a large % of your capital and being \"removed from the game\".\n\nAs you develop your intuition and winrate, you will consistently grow you capital without being prone to large capital losses, and achieve large portfolio returns.\n\n\n---\nIn simple terms,\n\nIf you start gambling with $50k, make bets you perceive to be high EV & use the kelly criterion to avoid large capital losses (as they lead to lack of ability to compound large amts)\n\nYour portfolio will go up unless\n1. You are betting high amounts\n2. You are not pursuing +EV bets\n\nIf it's the former, you need to revise the kelly criterion & optimal bet amounts to achieve the best equity growth.\n\nIf it's the latter, your intuition / objectivity / knowledge needs work.\n\nLink re. kelly: \n\n\n---\nIf you lose 50% of your portfolio, you also lose the opportunity cost of the lost money i.e. risk free rate or other expectation of the lost money and the opportunity cost of the time used to invest the money.\n\nIf you are brilliant, your capital will appreciate gradually at a nice rate. Don't assume your hitrate is exceptionally high.\n\nStudy allegory of the cave, these retards don't know what they're talking about.\n\nUse kelly criterion.\n\nin 2025, I'm going to minimize risk, protect my capital, and aim for knowledge first.\n\nMy goal is $100k. That's skywalker tier money.\n\n**But more important than the money, is how I improve at risk taking.**\n\nI also need to do better academically and use it to improve my financial risk taking.\n\nI may also buy a car if I hit that goal, something cheap like ~10-15k.",
+    "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(o,e)=>()=>(e||o((e={exports:{}}).exports,e),e.exports),w=(o,e)=>{for(var a in e)i(o,a,{get:e[a],enumerable:!0})},l=(o,e,a,n)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of m(e))!y.call(o,r)&&r!==a&&i(o,r,{get:()=>e[r],enumerable:!(n=u(e,r))||n.enumerable});return o};var k=(o,e,a)=>(a=o!=null?p(g(o)):{},l(e||!o||!o.__esModule?i(a,\"default\",{value:o,enumerable:!0}):a,o)),b=o=>l(i({},\"__esModule\",{value:!0}),o);var h=f((N,s)=>{s.exports=_jsx_runtime});var x={};w(x,{default:()=>d,frontmatter:()=>v});var t=k(h()),v={title:\"2024 Year in Review\",date:\"2024-12-25\",lastmod:\"2024-12-25\",tags:[\"stock-market\",\"prediction markets\",\"polymarket\"],draft:!1,summary:null,images:[],authors:[\"default\"]};function c(o){let e={a:\"a\",h1:\"h1\",hr:\"hr\",li:\"li\",ol:\"ol\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",ul:\"ul\",...o.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(e.h1,{className:\"content-header\",id:\"score\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#score\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Score\"]}),(0,t.jsx)(e.p,{children:\"Year end stats:\"}),(0,t.jsxs)(e.ul,{children:[(0,t.jsx)(e.li,{children:\"Net worth change from initial investment: -13.29%\"}),(0,t.jsx)(e.li,{children:\"Net worth change from peak: -49.6%\"}),(0,t.jsx)(e.li,{children:\"Net worth change from peak to trough: -72.81%\"})]}),(0,t.jsx)(e.p,{children:\"Ytd performance summary: Discovered betting, did very well (~5x from initial deposit)\"}),(0,t.jsx)(e.p,{children:\"Went way too hard on two bets that eroded 54% of my portfolio (including gains)\"}),(0,t.jsx)(e.p,{children:\"Bet way too hard on subsequent bets, cascading losses\"}),(0,t.jsx)(e.p,{children:\"Took a break, made some back\"}),(0,t.jsx)(e.p,{children:\"Now sitting at ~-10% from the start.\"}),(0,t.jsx)(e.hr,{}),(0,t.jsxs)(e.h1,{className:\"content-header\",id:\"future-notes\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#future-notes\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"future notes\"]}),(0,t.jsx)(e.p,{children:\"It's all about decision making.\"}),(0,t.jsx)(e.p,{children:`You won't always be right, so bet low to prevent losing a large % of your capital and being \"removed from the game\".`}),(0,t.jsx)(e.p,{children:\"As you develop your intuition and winrate, you will consistently grow you capital without being prone to large capital losses, and achieve large portfolio returns.\"}),(0,t.jsx)(e.hr,{}),(0,t.jsx)(e.p,{children:\"In simple terms,\"}),(0,t.jsx)(e.p,{children:\"If you start gambling with $50k, make bets you perceive to be high EV & use the kelly criterion to avoid large capital losses (as they lead to lack of ability to compound large amts)\"}),(0,t.jsx)(e.p,{children:\"Your portfolio will go up unless\"}),(0,t.jsxs)(e.ol,{children:[(0,t.jsx)(e.li,{children:\"You are betting high amounts\"}),(0,t.jsx)(e.li,{children:\"You are not pursuing +EV bets\"})]}),(0,t.jsx)(e.p,{children:\"If it's the former, you need to revise the kelly criterion & optimal bet amounts to achieve the best equity growth.\"}),(0,t.jsx)(e.p,{children:\"If it's the latter, your intuition / objectivity / knowledge needs work.\"}),(0,t.jsx)(e.p,{children:\"Link re. kelly:\"}),(0,t.jsx)(e.hr,{}),(0,t.jsx)(e.p,{children:\"If you lose 50% of your portfolio, you also lose the opportunity cost of the lost money i.e. risk free rate or other expectation of the lost money and the opportunity cost of the time used to invest the money.\"}),(0,t.jsx)(e.p,{children:\"If you are brilliant, your capital will appreciate gradually at a nice rate. Don't assume your hitrate is exceptionally high.\"}),(0,t.jsx)(e.p,{children:\"Study allegory of the cave, these retards don't know what they're talking about.\"}),(0,t.jsx)(e.p,{children:\"Use kelly criterion.\"}),(0,t.jsx)(e.p,{children:\"in 2025, I'm going to minimize risk, protect my capital, and aim for knowledge first.\"}),(0,t.jsx)(e.p,{children:\"My goal is $100k. That's skywalker tier money.\"}),(0,t.jsx)(e.p,{children:(0,t.jsx)(e.strong,{children:\"But more important than the money, is how I improve at risk taking.\"})}),(0,t.jsx)(e.p,{children:\"I also need to do better academically and use it to improve my financial risk taking.\"}),(0,t.jsx)(e.p,{children:\"I may also buy a car if I hit that goal, something cheap like ~10-15k.\"})]})}function d(o={}){let{wrapper:e}=o.components||{};return e?(0,t.jsx)(e,{...o,children:(0,t.jsx)(c,{...o})}):c(o)}return b(x);})();\n;return Component;"
+  },
+  "_id": "blog/nqx-capital-year-in-review copy.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/nqx-capital-year-in-review copy.mdx",
+    "sourceFileName": "nqx-capital-year-in-review copy.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/nqx-capital-year-in-review copy"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "2 min read",
+    "minutes": 1.865,
+    "time": 111900,
+    "words": 373
+  },
+  "slug": "nqx-capital-year-in-review copy",
+  "path": "blog/nqx-capital-year-in-review copy",
+  "filePath": "blog/nqx-capital-year-in-review copy.mdx",
+  "toc": [
+    {
+      "value": "Score",
+      "url": "#score-3",
+      "depth": 1
+    },
+    {
+      "value": "future notes",
+      "url": "#future-notes-3",
+      "depth": 1
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "2024 Year in Review",
+    "datePublished": "2024-12-25T00:00:00.000Z",
+    "dateModified": "2024-12-25T00:00:00.000Z",
+    "description": null,
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/nqx-capital-year-in-review copy"
+  }
+}

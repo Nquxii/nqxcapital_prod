@@ -1,0 +1,54 @@
+{
+  "title": "2024 Year in Review",
+  "date": "2024-12-25T00:00:00.000Z",
+  "tags": [
+    "stock-market",
+    "prediction markets",
+    "polymarket"
+  ],
+  "lastmod": "2024-12-25T00:00:00.000Z",
+  "draft": false,
+  "summary": null,
+  "images": [],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nYear end stats: \n\n- Net worth change from peak: -49.6%\n- Net worth change from initial investment: -13.29%\n- Net worth change from peak to trough: -72.81%\n\nYtd performance summary:\nDiscovered betting, did very well (~5x from initial deposit)\n\nWent way too hard on two bets that eroded 60% of my portfolio (including gains)\n\nBet way too hard on subsequent bets\n\nTook a break, made some back\n\nNow sitting at ~-10% from the start.\n\n\n---\n# Understanding gambling dynamics\n\nIf you lose 50% of your portfolio, you also lose the opportunity cost of the lost money, i.e. risk free rate or other expectation of the lost money, and the time used to invest the money.\n\nin 2025, I'm going to minimize risk, protect my capital, and aim for knowledge first.\n\nMy goal is $100k. That's skywalker tier money.\n\nI'll also buy a car if I hit that goal,, something cheap like ~10-15k.",
+    "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),k=(n,e)=>{for(var a in e)i(n,a,{get:e[a],enumerable:!0})},l=(n,e,a,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of g(e))!f.call(n,r)&&r!==a&&i(n,r,{get:()=>e[r],enumerable:!(o=p(e,r))||o.enumerable});return n};var w=(n,e,a)=>(a=n!=null?m(u(n)):{},l(e||!n||!n.__esModule?i(a,\"default\",{value:n,enumerable:!0}):a,n)),x=n=>l(i({},\"__esModule\",{value:!0}),n);var d=y((_,s)=>{s.exports=_jsx_runtime});var v={};k(v,{default:()=>c,frontmatter:()=>b});var t=w(d()),b={title:\"2024 Year in Review\",date:\"2024-12-25\",lastmod:\"2024-12-25\",tags:[\"stock-market\",\"prediction markets\",\"polymarket\"],draft:!1,summary:null,images:[],authors:[\"default\"]};function h(n){let e={a:\"a\",h1:\"h1\",hr:\"hr\",li:\"li\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",ul:\"ul\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"Year end stats:\"}),(0,t.jsxs)(e.ul,{children:[(0,t.jsx)(e.li,{children:\"Net worth change from peak: -49.6%\"}),(0,t.jsx)(e.li,{children:\"Net worth change from initial investment: -13.29%\"}),(0,t.jsx)(e.li,{children:\"Net worth change from peak to trough: -72.81%\"})]}),(0,t.jsx)(e.p,{children:\"Ytd performance summary: Discovered betting, did very well (~5x from initial deposit)\"}),(0,t.jsx)(e.p,{children:\"Went way too hard on two bets that eroded 60% of my portfolio (including gains)\"}),(0,t.jsx)(e.p,{children:\"Bet way too hard on subsequent bets\"}),(0,t.jsx)(e.p,{children:\"Took a break, made some back\"}),(0,t.jsx)(e.p,{children:\"Now sitting at ~-10% from the start.\"}),(0,t.jsx)(e.hr,{}),(0,t.jsxs)(e.h1,{className:\"content-header\",id:\"understanding-gambling-dynamics\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#understanding-gambling-dynamics\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Understanding gambling dynamics\"]}),(0,t.jsx)(e.p,{children:\"If you lose 50% of your portfolio, you also lose the opportunity cost of the lost money, i.e. risk free rate or other expectation of the lost money, and the time used to invest the money.\"}),(0,t.jsx)(e.p,{children:\"in 2025, I'm going to minimize risk, protect my capital, and aim for knowledge first.\"}),(0,t.jsx)(e.p,{children:\"My goal is $100k. That's skywalker tier money.\"}),(0,t.jsx)(e.p,{children:\"I'll also buy a car if I hit that goal,, something cheap like ~10-15k.\"})]})}function c(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(h,{...n})}):h(n)}return x(v);})();\n;return Component;"
+  },
+  "_id": "blog/year-in-review.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/year-in-review.mdx",
+    "sourceFileName": "year-in-review.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/year-in-review"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.76,
+    "time": 45600,
+    "words": 152
+  },
+  "slug": "year-in-review",
+  "path": "blog/year-in-review",
+  "filePath": "blog/year-in-review.mdx",
+  "toc": [
+    {
+      "value": "Understanding gambling dynamics",
+      "url": "#understanding-gambling-dynamics-2",
+      "depth": 1
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "2024 Year in Review",
+    "datePublished": "2024-12-25T00:00:00.000Z",
+    "dateModified": "2024-12-25T00:00:00.000Z",
+    "description": null,
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/year-in-review"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Lululemon thesis",
+  "date": "2024-10-22T00:00:00.000Z",
+  "tags": [
+    "stock market",
+    "thesis"
+  ],
+  "lastmod": "2024-10-22T00:00:00.000Z",
+  "draft": false,
+  "summary": "Lululemon thesis",
+  "images": [],
+  "authors": [
+    "default",
+    "dan_a"
+  ],
+  "body": {
+    "raw": "# Lululemon thesis\nSince its peak in late 2023, Lululemon stock has dropped by over 50%.\nI tend to think sudden violent drops due to earnings are short-lived, as seen by previous price action in the stock.\n\nEarnings performance since ATH:\n- period ending Jan '24: 3.19b; 0.38% revenue beat\n- period ending Apr '24: 2.20b; 0.40% revenue beat\n- period ending Jul '24: 2.41b; 1.46% revenue miss\n- period ending Oct '24: ????b; ?.??% revenue ????\n\nYoY the earnings performance doesn't look bad. So why did Lululemon drop so much from its peak, and what can we learn about a recovery using comparable scenarios?\n\n## NKE stock\n- down from its peak in Nov 2021\n- revenues have decreased YoY, unlike lulu\n- dividends have also bogged down its price\n- recovered losses before more investor \n\nthe two stocks are not completely correlated, they each have different highs, dividend history (lulu has none), and size (lulu has ~1/6th the quarterly revenue)\n\nThe pattern I see here is that ",
+    "code": "var Component=(()=>{var u=Object.create;var t=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var k=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),f=(a,e)=>{for(var l in e)t(a,l,{get:e[l],enumerable:!0})},s=(a,e,l,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of m(e))!g.call(a,r)&&r!==l&&t(a,r,{get:()=>e[r],enumerable:!(i=p(e,r))||i.enumerable});return a};var w=(a,e,l)=>(l=a!=null?u(v(a)):{},s(e||!a||!a.__esModule?t(l,\"default\",{value:a,enumerable:!0}):l,a)),b=a=>s(t({},\"__esModule\",{value:!0}),a);var d=k((_,o)=>{o.exports=_jsx_runtime});var y={};f(y,{default:()=>c,frontmatter:()=>x});var n=w(d()),x={title:\"Lululemon thesis\",date:\"2024-10-22\",lastmod:\"2024-10-22\",tags:[\"stock market\",\"thesis\"],draft:!1,summary:\"Lululemon thesis\",images:[],authors:[\"default\",\"dan_a\"]};function h(a){let e={a:\"a\",h1:\"h1\",h2:\"h2\",li:\"li\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",ul:\"ul\",...a.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h1,{className:\"content-header\",id:\"lululemon-thesis\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#lululemon-thesis\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Lululemon thesis\"]}),(0,n.jsx)(e.p,{children:\"Since its peak in late 2023, Lululemon stock has dropped by over 50%. I tend to think sudden violent drops due to earnings are short-lived, as seen by previous price action in the stock.\"}),(0,n.jsx)(e.p,{children:\"Earnings performance since ATH:\"}),(0,n.jsxs)(e.ul,{children:[(0,n.jsx)(e.li,{children:\"period ending Jan '24: 3.19b; 0.38% revenue beat\"}),(0,n.jsx)(e.li,{children:\"period ending Apr '24: 2.20b; 0.40% revenue beat\"}),(0,n.jsx)(e.li,{children:\"period ending Jul '24: 2.41b; 1.46% revenue miss\"}),(0,n.jsx)(e.li,{children:\"period ending Oct '24: ????b; ?.??% revenue ????\"})]}),(0,n.jsx)(e.p,{children:\"YoY the earnings performance doesn't look bad. So why did Lululemon drop so much from its peak, and what can we learn about a recovery using comparable scenarios?\"}),(0,n.jsxs)(e.h2,{className:\"content-header\",id:\"nke-stock\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#nke-stock\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"NKE stock\"]}),(0,n.jsxs)(e.ul,{children:[(0,n.jsx)(e.li,{children:\"down from its peak in Nov 2021\"}),(0,n.jsx)(e.li,{children:\"revenues have decreased YoY, unlike lulu\"}),(0,n.jsx)(e.li,{children:\"dividends have also bogged down its price\"}),(0,n.jsx)(e.li,{children:\"recovered losses before more investor\"})]}),(0,n.jsx)(e.p,{children:\"the two stocks are not completely correlated, they each have different highs, dividend history (lulu has none), and size (lulu has ~1/6th the quarterly revenue)\"}),(0,n.jsx)(e.p,{children:\"The pattern I see here is that\"})]})}function c(a={}){let{wrapper:e}=a.components||{};return e?(0,n.jsx)(e,{...a,children:(0,n.jsx)(h,{...a})}):h(a)}return b(y);})();\n;return Component;"
+  },
+  "_id": "blog/lululemon-thesis.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/lululemon-thesis.mdx",
+    "sourceFileName": "lululemon-thesis.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/lululemon-thesis"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.845,
+    "time": 50700,
+    "words": 169
+  },
+  "slug": "lululemon-thesis",
+  "path": "blog/lululemon-thesis",
+  "filePath": "blog/lululemon-thesis.mdx",
+  "toc": [
+    {
+      "value": "Lululemon thesis",
+      "url": "#lululemon-thesis",
+      "depth": 1
+    },
+    {
+      "value": "NKE stock",
+      "url": "#nke-stock",
+      "depth": 2
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Lululemon thesis",
+    "datePublished": "2024-10-22T00:00:00.000Z",
+    "dateModified": "2024-10-22T00:00:00.000Z",
+    "description": "Lululemon thesis",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/lululemon-thesis"
+  }
+}

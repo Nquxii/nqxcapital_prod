@@ -1,0 +1,52 @@
+{
+  "title": "Blowing up: The only hedge a gambler needs",
+  "date": "2024-10-16T00:00:00.000Z",
+  "tags": [
+    "betting",
+    "polymarket",
+    "prediction markets",
+    "sports betting"
+  ],
+  "lastmod": "2024-10-16T00:00:00.000Z",
+  "draft": false,
+  "summary": "How I lost thousands of dollars in mere days, and how to stop taking the staircase up and elevator down",
+  "images": [
+    "/static/images/silent_war.png"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nIf you're a regular investor who has low risk tolerance, this article should be disregarded.\n\nBut if you're a gambler, a bettor, an options trader, ect. whose instinct is to chase high risk/reward, **It will be the most important advice you will hear.**\n\nBetting is nothing like stocks or crypto. When you buy an option or bet on a prediction market, you are paying for a contract with no intrinsic value - only expectation.\n\nYou can't sell your bets on the presidential election after it is over, but you can sell a stock if it underperforms quarterly earnings.\n\nIn 2021, at the peak of the crypto boom, I was up ~400% on my initial investment of $2000. Instead of selling, however, I held my crypto and kept adding to my position when prices fell.\n\nEventually, I ran out of money, and my only choice was to deposit money to FTX and begin [leverage trading](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading). At first I made small trades, with low amounts of leverage. \nBut as I lost money with each trade, I began increasing the leverage - to 10x, even 20x. Thankfully, FTX had limited leverage to 20x at the time, but it wouldn't stop me from \nblowing up. I kept losing my trades as the crypto bubble finally popped, and I was left with \\$1200 in my trading account, from a high of $17,000.\n\nAt that point, I was focused on other obligations (high school), so I stopped trading and withdrew the rest of the money I had in my trading account.\n\nA few months later, FTX blew up, and it reminded me of what I *actually had* within the year. I built (what I believed was) a fortune, and threw it away because I was greedy\nand euphoric at the peak of the crypto market. Life has a funny way of working where you genuinely cannot win using greed, no matter how much you make. It always finds a way to ruin you.\n\nThe answer to this dilemma &mdash; the pleasing desire to bet more &mdash; is reminding yourself to limit your bets and avoid blowing up.\n\nIt's easier said than done, I know this firsthand. But you need to remind yourself of the worst-case scenario in any of your financial endeavors. \n\nDon't be greedy. Don't increase position sizing to \"make back your losses\". Don't make decisions based on your net worth goals instead of the quality of the decision.\n\nIt hurts, but when you blow up, you'll never have the capital to build long-lasting, generational wealth.\n\n![hyun](/static/images/silent_war.png)\n\nGamble safely.",
+    "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var o in e)i(t,o,{get:e[o],enumerable:!0})},s=(t,e,o,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of p(e))!g.call(t,a)&&a!==o&&i(t,a,{get:()=>e[a],enumerable:!(r=m(e,a))||r.enumerable});return t};var b=(t,e,o)=>(o=t!=null?u(y(t)):{},s(e||!t||!t.__esModule?i(o,\"default\",{value:t,enumerable:!0}):o,t)),I=t=>s(i({},\"__esModule\",{value:!0}),t);var d=w((j,l)=>{l.exports=_jsx_runtime});var x={};f(x,{default:()=>c,frontmatter:()=>v});var n=b(d()),v={title:\"Blowing up: The only hedge a gambler needs\",date:\"2024-10-16\",lastmod:\"2024-10-16\",tags:[\"betting\",\"polymarket\",\"prediction markets\",\"sports betting\"],draft:!1,summary:\"How I lost thousands of dollars in mere days, and how to stop taking the staircase up and elevator down\",images:[\"/static/images/silent_war.png\"],authors:[\"default\"]};function h(t){let e={a:\"a\",div:\"div\",em:\"em\",p:\"p\",strong:\"strong\",...t.components},{Image:o}=e;return o||k(\"Image\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"If you're a regular investor who has low risk tolerance, this article should be disregarded.\"}),(0,n.jsxs)(e.p,{children:[\"But if you're a gambler, a bettor, an options trader, ect. whose instinct is to chase high risk/reward, \",(0,n.jsx)(e.strong,{children:\"It will be the most important advice you will hear.\"})]}),(0,n.jsx)(e.p,{children:\"Betting is nothing like stocks or crypto. When you buy an option or bet on a prediction market, you are paying for a contract with no intrinsic value - only expectation.\"}),(0,n.jsx)(e.p,{children:\"You can't sell your bets on the presidential election after it is over, but you can sell a stock if it underperforms quarterly earnings.\"}),(0,n.jsx)(e.p,{children:\"In 2021, at the peak of the crypto boom, I was up ~400% on my initial investment of $2000. Instead of selling, however, I held my crypto and kept adding to my position when prices fell.\"}),(0,n.jsxs)(e.p,{children:[\"Eventually, I ran out of money, and my only choice was to deposit money to FTX and begin \",(0,n.jsx)(e.a,{href:\"https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading\",children:\"leverage trading\"}),\". At first I made small trades, with low amounts of leverage. But as I lost money with each trade, I began increasing the leverage - to 10x, even 20x. Thankfully, FTX had limited leverage to 20x at the time, but it wouldn't stop me from blowing up. I kept losing my trades as the crypto bubble finally popped, and I was left with $1200 in my trading account, from a high of $17,000.\"]}),(0,n.jsx)(e.p,{children:\"At that point, I was focused on other obligations (high school), so I stopped trading and withdrew the rest of the money I had in my trading account.\"}),(0,n.jsxs)(e.p,{children:[\"A few months later, FTX blew up, and it reminded me of what I \",(0,n.jsx)(e.em,{children:\"actually had\"}),\" within the year. I built (what I believed was) a fortune, and threw it away because I was greedy and euphoric at the peak of the crypto market. Life has a funny way of working where you genuinely cannot win using greed, no matter how much you make. It always finds a way to ruin you.\"]}),(0,n.jsx)(e.p,{children:\"The answer to this dilemma \\u2014 the pleasing desire to bet more \\u2014 is reminding yourself to limit your bets and avoid blowing up.\"}),(0,n.jsx)(e.p,{children:\"It's easier said than done, I know this firsthand. But you need to remind yourself of the worst-case scenario in any of your financial endeavors.\"}),(0,n.jsx)(e.p,{children:`Don't be greedy. Don't increase position sizing to \"make back your losses\". Don't make decisions based on your net worth goals instead of the quality of the decision.`}),(0,n.jsx)(e.p,{children:\"It hurts, but when you blow up, you'll never have the capital to build long-lasting, generational wealth.\"}),(0,n.jsx)(e.div,{children:(0,n.jsx)(o,{alt:\"hyun\",src:\"/static/images/silent_war.png\",width:\"1420\",height:\"1600\"})}),(0,n.jsx)(e.p,{children:\"Gamble safely.\"})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(h,{...t})}):h(t)}function k(t,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return I(x);})();\n;return Component;"
+  },
+  "_id": "blog/blowing-up-the-only-hedge-a-gambler-needs copy.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/blowing-up-the-only-hedge-a-gambler-needs copy.mdx",
+    "sourceFileName": "blowing-up-the-only-hedge-a-gambler-needs copy.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/blowing-up-the-only-hedge-a-gambler-needs copy"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "3 min read",
+    "minutes": 2.12,
+    "time": 127200,
+    "words": 424
+  },
+  "slug": "blowing-up-the-only-hedge-a-gambler-needs copy",
+  "path": "blog/blowing-up-the-only-hedge-a-gambler-needs copy",
+  "filePath": "blog/blowing-up-the-only-hedge-a-gambler-needs copy.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Blowing up: The only hedge a gambler needs",
+    "datePublished": "2024-10-16T00:00:00.000Z",
+    "dateModified": "2024-10-16T00:00:00.000Z",
+    "description": "How I lost thousands of dollars in mere days, and how to stop taking the staircase up and elevator down",
+    "image": "/static/images/silent_war.png",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/blowing-up-the-only-hedge-a-gambler-needs copy"
+  }
+}

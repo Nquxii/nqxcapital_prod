@@ -1,0 +1,44 @@
+{
+  "title": "Common Mistakes",
+  "date": "2024-10-23T00:00:00.000Z",
+  "tags": [],
+  "lastmod": "2024-10-23T00:00:00.000Z",
+  "draft": false,
+  "summary": "Common mistakes to avoid when betting",
+  "images": [],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\n1) forget about your assumptions. What should/is the descion maker think is what matters (trump+jre bet) \n\n2) do not focus on your potential profit - it makes you suceptible to longshot bias. Think about a bet in terms of *possible loss* given a **devised probability**.\n\n3) aggressive betting is an easy shortcut to blowing up. do not bet a large percentage of your portfolio on a single bet. you can use a variation of the kelly criterion (consider mistake #2) to avoid this mistake.\n\n",
+    "code": "var Component=(()=>{var u=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var b=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var n in t)s(e,n,{get:t[n],enumerable:!0})},a=(e,t,n,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let i of p(t))!f.call(e,i)&&i!==n&&s(e,i,{get:()=>t[i],enumerable:!(r=h(t,i))||r.enumerable});return e};var k=(e,t,n)=>(n=e!=null?u(g(e)):{},a(t||!e||!e.__esModule?s(n,\"default\",{value:e,enumerable:!0}):n,e)),x=e=>a(s({},\"__esModule\",{value:!0}),e);var c=b((w,l)=>{l.exports=_jsx_runtime});var v={};y(v,{default:()=>d,frontmatter:()=>j});var o=k(c()),j={title:\"Common Mistakes\",date:\"2024-10-23\",lastmod:\"2024-10-23\",tags:[],draft:!1,summary:\"Common mistakes to avoid when betting\",images:[],authors:[\"default\"]};function m(e){let t={em:\"em\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",...e.components};return(0,o.jsxs)(t.ol,{children:[(0,o.jsx)(t.li,{children:(0,o.jsx)(t.p,{children:\"forget about your assumptions. What should/is the descion maker think is what matters (trump+jre bet)\"})}),(0,o.jsx)(t.li,{children:(0,o.jsxs)(t.p,{children:[\"do not focus on your potential profit - it makes you suceptible to longshot bias. Think about a bet in terms of \",(0,o.jsx)(t.em,{children:\"possible loss\"}),\" given a \",(0,o.jsx)(t.strong,{children:\"devised probability\"}),\".\"]})}),(0,o.jsx)(t.li,{children:(0,o.jsx)(t.p,{children:\"aggressive betting is an easy shortcut to blowing up. do not bet a large percentage of your portfolio on a single bet. you can use a variation of the kelly criterion (consider mistake #2) to avoid this mistake.\"})})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(m,{...e})}):m(e)}return x(v);})();\n;return Component;"
+  },
+  "_id": "blog/mistakes.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/mistakes.mdx",
+    "sourceFileName": "mistakes.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/mistakes"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.42,
+    "time": 25200,
+    "words": 84
+  },
+  "slug": "mistakes",
+  "path": "blog/mistakes",
+  "filePath": "blog/mistakes.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Common Mistakes",
+    "datePublished": "2024-10-23T00:00:00.000Z",
+    "dateModified": "2024-10-23T00:00:00.000Z",
+    "description": "Common mistakes to avoid when betting",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/mistakes"
+  }
+}

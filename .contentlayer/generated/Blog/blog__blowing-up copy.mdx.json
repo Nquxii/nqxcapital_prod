@@ -1,0 +1,52 @@
+{
+  "title": "Blowing up: the single most important hedge for bettors",
+  "date": "2021-01-12T00:00:00.000Z",
+  "tags": [
+    "betting",
+    "polymarket",
+    "prediction markets",
+    "sports betting"
+  ],
+  "lastmod": "2024-08-16T00:00:00.000Z",
+  "draft": false,
+  "summary": "How I lost tens of thousands of dollars weeks/days",
+  "images": [
+    "/static/images/silent_war.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nIf you're sports betting\n\n[hyun]('/static/images/silent_war.jpg')",
+    "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},i=(t,e,n,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of u(e))!h.call(t,o)&&o!==n&&r(t,o,{get:()=>e[o],enumerable:!(a=g(e,o))||a.enumerable});return t};var j=(t,e,n)=>(n=t!=null?p(f(t)):{},i(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),w=t=>i(r({},\"__esModule\",{value:!0}),t);var l=x((M,m)=>{m.exports=_jsx_runtime});var b={};_(b,{default:()=>d,frontmatter:()=>y});var s=j(l()),y={title:\"Blowing up: the single most important hedge for bettors\",date:\"2021-01-12\",lastmod:\"2024-08-16\",tags:[\"betting\",\"polymarket\",\"prediction markets\",\"sports betting\"],draft:!1,summary:\"How I lost tens of thousands of dollars weeks/days\",images:[\"/static/images/silent_war.jpg\"],authors:[\"default\"]};function c(t){let e={a:\"a\",p:\"p\",...t.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.p,{children:\"If you're sports betting\"}),(0,s.jsx)(e.p,{children:(0,s.jsx)(e.a,{href:\"'/static/images/silent_war.jpg'\",children:\"hyun\"})})]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(c,{...t})}):c(t)}return w(b);})();\n;return Component;"
+  },
+  "_id": "blog/blowing-up copy.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/blowing-up copy.mdx",
+    "sourceFileName": "blowing-up copy.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/blowing-up copy"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.025,
+    "time": 1500,
+    "words": 5
+  },
+  "slug": "blowing-up copy",
+  "path": "blog/blowing-up copy",
+  "filePath": "blog/blowing-up copy.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Blowing up: the single most important hedge for bettors",
+    "datePublished": "2021-01-12T00:00:00.000Z",
+    "dateModified": "2024-08-16T00:00:00.000Z",
+    "description": "How I lost tens of thousands of dollars weeks/days",
+    "image": "/static/images/silent_war.jpg",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/blowing-up copy"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "cacheItemsMap": {
+    "authors/default.mdx": {
+      "document": {
+        "name": "nqx",
+        "avatar": "/static/images/light_ryuk.jpg",
+        "occupation": "Top G, CEO",
+        "company": "NQX Capital",
+        "twitter": "https://twitter.com/nquxiibh",
+        "linkedin": null,
+        "body": {
+          "raw": "\nbag chaser",
+          "code": "var Component=(()=>{var x=Object.create;var r=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var _=Object.getPrototypeOf,d=Object.prototype.hasOwnProperty;var f=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),g=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},i=(t,n,e,c)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of h(n))!d.call(t,o)&&o!==e&&r(t,o,{get:()=>n[o],enumerable:!(c=l(n,o))||c.enumerable});return t};var j=(t,n,e)=>(e=t!=null?x(_(t)):{},i(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),C=t=>i(r({},\"__esModule\",{value:!0}),t);var s=f((X,p)=>{p.exports=_jsx_runtime});var y={};g(y,{default:()=>u,frontmatter:()=>w});var a=j(s()),w={name:\"nqx\",avatar:\"/static/images/light_ryuk.jpg\",occupation:\"Top G, CEO\",company:\"NQX Capital\",twitter:\"https://twitter.com/nquxiibh\",linkedin:null};function m(t){let n={p:\"p\",...t.components};return(0,a.jsx)(n.p,{children:\"bag chaser\"})}function u(t={}){let{wrapper:n}=t.components||{};return n?(0,a.jsx)(n,{...t,children:(0,a.jsx)(m,{...t})}):m(t)}return C(y);})();\n;return Component;"
+        },
+        "_id": "authors/default.mdx",
+        "_raw": {
+          "sourceFilePath": "authors/default.mdx",
+          "sourceFileName": "default.mdx",
+          "sourceFileDir": "authors",
+          "contentType": "mdx",
+          "flattenedPath": "authors/default"
+        },
+        "type": "Authors",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.01,
+          "time": 600,
+          "words": 2
+        },
+        "slug": "default",
+        "path": "authors/default",
+        "filePath": "authors/default.mdx",
+        "toc": []
+      },
+      "documentHash": "1728774392446",
+      "hasWarnings": false,
+      "documentTypeName": "Authors"
+    },
+    "authors/sparrowhawk.mdx": {
+      "document": {
+        "name": "Sparrow Hawk",
+        "avatar": "/static/images/sparrowhawk-avatar.jpg",
+        "occupation": "Wizard of Earthsea",
+        "company": "Earthsea",
+        "twitter": "https://twitter.com/sparrowhawk",
+        "linkedin": "https://www.linkedin.com/sparrowhawk",
+        "body": {
+          "raw": "\nAt birth, Ged was given the child-name Duny by his mother. He was born on the island of Gont, as a son of a bronzesmith. His mother died before he reached the age of one. As a small boy, Ged had overheard the village witch, his maternal aunt, using various words of power to call goats. Ged later used the words without an understanding of their meanings, to surprising effect.\n\nThe witch knew that using words of power effectively without understanding them required innate power, so she endeavored to teach him what little she knew. After learning more from her, he was able to call animals to him. Particularly, he was seen in the company of wild sparrowhawks so often that his \"use name\" became Sparrowhawk.\n",
+          "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),k=(e,t)=>{for(var n in t)o(e,n,{get:t[n],enumerable:!0})},i=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of p(t))!f.call(e,r)&&r!==n&&o(e,r,{get:()=>t[r],enumerable:!(s=l(t,r))||s.enumerable});return e};var x=(e,t,n)=>(n=e!=null?m(u(e)):{},i(t||!e||!e.__esModule?o(n,\"default\",{value:e,enumerable:!0}):n,e)),b=e=>i(o({},\"__esModule\",{value:!0}),e);var w=g((j,h)=>{h.exports=_jsx_runtime});var y={};k(y,{default:()=>d,frontmatter:()=>v});var a=x(w()),v={name:\"Sparrow Hawk\",avatar:\"/static/images/sparrowhawk-avatar.jpg\",occupation:\"Wizard of Earthsea\",company:\"Earthsea\",twitter:\"https://twitter.com/sparrowhawk\",linkedin:\"https://www.linkedin.com/sparrowhawk\"};function c(e){let t={p:\"p\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(t.p,{children:\"At birth, Ged was given the child-name Duny by his mother. He was born on the island of Gont, as a son of a bronzesmith. His mother died before he reached the age of one. As a small boy, Ged had overheard the village witch, his maternal aunt, using various words of power to call goats. Ged later used the words without an understanding of their meanings, to surprising effect.\"}),(0,a.jsx)(t.p,{children:'The witch knew that using words of power effectively without understanding them required innate power, so she endeavored to teach him what little she knew. After learning more from her, he was able to call animals to him. Particularly, he was seen in the company of wild sparrowhawks so often that his \"use name\" became Sparrowhawk.'})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,a.jsx)(t,{...e,children:(0,a.jsx)(c,{...e})}):c(e)}return b(y);})();\n;return Component;"
+        },
+        "_id": "authors/sparrowhawk.mdx",
+        "_raw": {
+          "sourceFilePath": "authors/sparrowhawk.mdx",
+          "sourceFileName": "sparrowhawk.mdx",
+          "sourceFileDir": "authors",
+          "contentType": "mdx",
+          "flattenedPath": "authors/sparrowhawk"
+        },
+        "type": "Authors",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.63,
+          "time": 37800,
+          "words": 126
+        },
+        "slug": "sparrowhawk",
+        "path": "authors/sparrowhawk",
+        "filePath": "authors/sparrowhawk.mdx",
+        "toc": []
+      },
+      "documentHash": "1728667567865",
+      "hasWarnings": false,
+      "documentTypeName": "Authors"
+    },
+    "blog/blowing-up-the-single-most-important-hedge.mdx": {
+      "document": {
+        "title": "Blowing up: the single most important hedge for bettors",
+        "date": "2024-10-16T00:00:00.000Z",
+        "tags": [
+          "betting",
+          "polymarket",
+          "prediction markets",
+          "sports betting"
+        ],
+        "lastmod": "2024-10-16T00:00:00.000Z",
+        "draft": false,
+        "summary": "How I lost tens of thousands of dollars weeks/days",
+        "images": [
+          "/static/images/silent_war.png"
+        ],
+        "authors": [
+          "default"
+        ],
+        "body": {
+          "raw": "\nIf you're a regular investor who has a low risk tolerance, this article should be disregarded.\n\nBut if you're a gambler, a bettor, an options trader, ect. who's instinct is to chase high risk,\n\n**It will be the most important advice you can consider.**\n\n![hyun](/static/images/silent_war.png)\n\nBetting is nothing like stocks or crypto. When you buy an option or bet on a prediction market, you are paying for a contract with no intrinsic value - only expectation.\n\nAs such, a much lower percentage of your portfolio must be used for each bet.",
+          "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),w=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},a=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of m(t))!f.call(e,r)&&r!==n&&i(e,r,{get:()=>t[r],enumerable:!(s=u(t,r))||s.enumerable});return e};var b=(e,t,n)=>(n=e!=null?p(g(e)):{},a(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),x=e=>a(i({},\"__esModule\",{value:!0}),e);var d=y((I,c)=>{c.exports=_jsx_runtime});var v={};w(v,{default:()=>h,frontmatter:()=>_});var o=b(d()),_={title:\"Blowing up: the single most important hedge for bettors\",date:\"2024-10-16\",lastmod:\"2024-10-16\",tags:[\"betting\",\"polymarket\",\"prediction markets\",\"sports betting\"],draft:!1,summary:\"How I lost tens of thousands of dollars weeks/days\",images:[\"/static/images/silent_war.png\"],authors:[\"default\"]};function l(e){let t={div:\"div\",p:\"p\",strong:\"strong\",...e.components},{Image:n}=t;return n||k(\"Image\",!0),(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.p,{children:\"If you're a regular investor who has a low risk tolerance, this article should be disregarded.\"}),(0,o.jsx)(t.p,{children:\"But if you're a gambler, a bettor, an options trader, ect. who's instinct is to chase high risk,\"}),(0,o.jsx)(t.p,{children:(0,o.jsx)(t.strong,{children:\"It will be the most important advice you can consider.\"})}),(0,o.jsx)(t.div,{children:(0,o.jsx)(n,{alt:\"hyun\",src:\"/static/images/silent_war.png\",width:\"1420\",height:\"1600\"})}),(0,o.jsx)(t.p,{children:\"Betting is nothing like stocks or crypto. When you buy an option or bet on a prediction market, you are paying for a contract with no intrinsic value - only expectation.\"}),(0,o.jsx)(t.p,{children:\"As such, a much lower percentage of your portfolio must be used for each bet.\"})]})}function h(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(l,{...e})}):l(e)}function k(e,t){throw new Error(\"Expected \"+(t?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return x(v);})();\n;return Component;"
+        },
+        "_id": "blog/blowing-up-the-single-most-important-hedge.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/blowing-up-the-single-most-important-hedge.mdx",
+          "sourceFileName": "blowing-up-the-single-most-important-hedge.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/blowing-up-the-single-most-important-hedge"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.455,
+          "time": 27300,
+          "words": 91
+        },
+        "slug": "blowing-up-the-single-most-important-hedge",
+        "path": "blog/blowing-up-the-single-most-important-hedge",
+        "filePath": "blog/blowing-up-the-single-most-important-hedge.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Blowing up: the single most important hedge for bettors",
+          "datePublished": "2024-10-16T00:00:00.000Z",
+          "dateModified": "2024-10-16T00:00:00.000Z",
+          "description": "How I lost tens of thousands of dollars weeks/days",
+          "image": "/static/images/silent_war.png",
+          "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/blowing-up-the-single-most-important-hedge"
+        }
+      },
+      "documentHash": "1728775484505",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/introduction.mdx": {
+      "document": {
+        "title": "Introduction, goals",
+        "date": "2024-10-12T00:00:00.000Z",
+        "tags": [
+          "manifesto"
+        ],
+        "lastmod": "2024-10-12T00:00:00.000Z",
+        "draft": false,
+        "summary": "Introduction to my blog and what I'll write about",
+        "images": [
+          "/static/images/toronto.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "body": {
+          "raw": "\nMy goal in creating this blog is to write about:\n\n- Investment management\n- Prediction markets & poltical betting\n- Equity & crypto markets\n- Useful mental models / advice\n- Books\n- Thoughts on how to live a fulfilling life\n\nI chose to write about these in a blog as opposed to a personal medium (notes or whatever)\nas it's the most organized (public domain) and keeps me accountable the most.\n\nAlso makes me delve deeper into topics and put more effort so as to not publish low-quality content.\n\n![wagmi](/static/images/toronto.jpg)\n\nFwiw I'm 18 so don't take my posts seriously",
+          "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var w=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),b=(e,t)=>{for(var i in t)r(e,i,{get:t[i],enumerable:!0})},a=(e,t,i,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of p(t))!f.call(e,n)&&n!==i&&r(e,n,{get:()=>t[n],enumerable:!(s=h(t,n))||s.enumerable});return e};var x=(e,t,i)=>(i=e!=null?u(g(e)):{},a(t||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>a(r({},\"__esModule\",{value:!0}),e);var c=w((k,l)=>{l.exports=_jsx_runtime});var I={};b(I,{default:()=>m,frontmatter:()=>v});var o=x(c()),v={title:\"Introduction, goals\",date:\"2024-10-12\",lastmod:\"2024-10-12\",tags:[\"manifesto\"],draft:!1,summary:\"Introduction to my blog and what I'll write about\",images:[\"/static/images/toronto.jpg\"],authors:[\"default\"]};function d(e){let t={div:\"div\",li:\"li\",p:\"p\",ul:\"ul\",...e.components},{Image:i}=t;return i||j(\"Image\",!0),(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.p,{children:\"My goal in creating this blog is to write about:\"}),(0,o.jsxs)(t.ul,{children:[(0,o.jsx)(t.li,{children:\"Investment management\"}),(0,o.jsx)(t.li,{children:\"Prediction markets & poltical betting\"}),(0,o.jsx)(t.li,{children:\"Equity & crypto markets\"}),(0,o.jsx)(t.li,{children:\"Useful mental models / advice\"}),(0,o.jsx)(t.li,{children:\"Books\"}),(0,o.jsx)(t.li,{children:\"Thoughts on how to live a fulfilling life\"})]}),(0,o.jsx)(t.p,{children:\"I chose to write about these in a blog as opposed to a personal medium (notes or whatever) as it's the most organized (public domain) and keeps me accountable the most.\"}),(0,o.jsx)(t.p,{children:\"Also makes me delve deeper into topics and put more effort so as to not publish low-quality content.\"}),(0,o.jsx)(t.div,{children:(0,o.jsx)(i,{alt:\"wagmi\",src:\"/static/images/toronto.jpg\",width:\"736\",height:\"1200\"})}),(0,o.jsx)(t.p,{children:\"Fwiw I'm 18 so don't take my posts seriously\"})]})}function m(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(d,{...e})}):d(e)}function j(e,t){throw new Error(\"Expected \"+(t?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return y(I);})();\n;return Component;"
+        },
+        "_id": "blog/introduction.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/introduction.mdx",
+          "sourceFileName": "introduction.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/introduction"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.5,
+          "time": 30000,
+          "words": 100
+        },
+        "slug": "introduction",
+        "path": "blog/introduction",
+        "filePath": "blog/introduction.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Introduction, goals",
+          "datePublished": "2024-10-12T00:00:00.000Z",
+          "dateModified": "2024-10-12T00:00:00.000Z",
+          "description": "Introduction to my blog and what I'll write about",
+          "image": "/static/images/toronto.jpg",
+          "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/introduction"
+        }
+      },
+      "documentHash": "1728702497493",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/making-some-thousands-and-forgetting-about-it.mdx": {
+      "document": {
+        "title": "Making some thousands and forgetting about it: Crypto markets and volatility",
+        "date": "2024-10-24T00:00:00.000Z",
+        "tags": [
+          "crypto"
+        ],
+        "lastmod": "2024-10-25T00:00:00.000Z",
+        "draft": false,
+        "summary": "The unpredictable nature of crypto markets and why leverage trading is an uphill battle",
+        "images": [
+          "/static/images/silent_war.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "body": {
+          "raw": "\nIn early 2024, I decided to deploy some of my money to crypto markets. More specifically, Hyperliquid.xyz, a leverage-trading platform.",
+          "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var y=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),h=(t,e)=>{for(var a in e)o(t,a,{get:e[a],enumerable:!0})},s=(t,e,a,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of y(e))!g.call(t,n)&&n!==a&&o(t,n,{get:()=>e[n],enumerable:!(i=u(e,n))||i.enumerable});return t};var _=(t,e,a)=>(a=t!=null?p(f(t)):{},s(e||!t||!t.__esModule?o(a,\"default\",{value:t,enumerable:!0}):a,t)),M=t=>s(o({},\"__esModule\",{value:!0}),t);var d=x((v,l)=>{l.exports=_jsx_runtime});var k={};h(k,{default:()=>c,frontmatter:()=>j});var r=_(d()),j={title:\"Making some thousands and forgetting about it: Crypto markets and volatility\",date:\"2024-10-24\",lastmod:\"2024-10-25\",tags:[\"crypto\"],draft:!1,summary:\"The unpredictable nature of crypto markets and why leverage trading is an uphill battle\",images:[\"/static/images/silent_war.jpg\"],authors:[\"default\"]};function m(t){let e={p:\"p\",...t.components};return(0,r.jsx)(e.p,{children:\"In early 2024, I decided to deploy some of my money to crypto markets. More specifically, Hyperliquid.xyz, a leverage-trading platform.\"})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(m,{...t})}):m(t)}return M(k);})();\n;return Component;"
+        },
+        "_id": "blog/making-some-thousands-and-forgetting-about-it.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/making-some-thousands-and-forgetting-about-it.mdx",
+          "sourceFileName": "making-some-thousands-and-forgetting-about-it.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/making-some-thousands-and-forgetting-about-it"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.1,
+          "time": 6000,
+          "words": 20
+        },
+        "slug": "making-some-thousands-and-forgetting-about-it",
+        "path": "blog/making-some-thousands-and-forgetting-about-it",
+        "filePath": "blog/making-some-thousands-and-forgetting-about-it.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Making some thousands and forgetting about it: Crypto markets and volatility",
+          "datePublished": "2024-10-24T00:00:00.000Z",
+          "dateModified": "2024-10-25T00:00:00.000Z",
+          "description": "The unpredictable nature of crypto markets and why leverage trading is an uphill battle",
+          "image": "/static/images/silent_war.jpg",
+          "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/making-some-thousands-and-forgetting-about-it"
+        }
+      },
+      "documentHash": "1728776917911",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/mention-markets-in-polymarket.mdx": {
+      "document": {
+        "title": "Mention Markets on Polymarket",
+        "date": "2024-10-13T00:00:00.000Z",
+        "tags": [
+          "finance",
+          "prediction markets",
+          "polymarket"
+        ],
+        "lastmod": "2024-10-13T00:00:00.000Z",
+        "draft": false,
+        "summary": "The fastest turnover bets on Polymarket and how I make a killing from time to time.",
+        "images": [],
+        "authors": [
+          "default"
+        ],
+        "body": {
+          "raw": "\n## Intro\nMention markets on polymarket are probably the most toxic and unsettling markets on the platform.\n\nThis is because an individual's rhetoric is highly volatile and unpredictable, and waiting for them to finish a speech or mention something is very nerve-racking.\n\nAdditionally, most newcomers to these markets fail, because they lack the information to predict \"seemingly trival\" events. (Unlike experienced MM bettors)\n\nOver time, however, good bettors have enough information to **easily** profit from their bets, at least in the long-run.\n\n## Strategy\nThis is because speeches may be targeted based on the appearance. This may seem like a simple fact, and already 'priced-in', but polymarket suffers badly from recency bias.\n\nIf Trump doesn't say something in one rally, it's likely that its mention market odds for the next rally will be very low. The opposite is true if Trump says something a lot.\n\nThe key is to make small bets with high extrinsic value.\n\nBy \"small bets\", I mean you should bet based on the kelly criterion, but 1/2 or 1/4th of the recommended amount. This will prevent you from [blowing up](/data/blog/blowing-up-the-single-most-important-hedge).\n\nBy \"high intrinsic value\", I mean choose something with asymmetric odds. For example, if a rally is purportedly focusing on the economy, bet against the speaker saying border-related topics.\n\nLook at base rates to ensure the odds are well-priced in your favor.\n\n### Examples, personal bets\nThe best example of a good bet I made on a mention market is on Trump's rally in Prarie Du Chen, Wisconsin.\nLooking at the [press release](https://www.donaldjtrump.com/news/24f093a1-d3ed-4e1c-b58d-4975bc18d0cd), (which apparently nobody looks at), it was obvious that the speech would be limited to remarks on the border,\n\nin addition to other current events, since Trump likes to ramble about those. \n\nYou can also see that the stage that Trump was performing at was very small, in fact, he was speaking at an elementary school. This implies he does not have a large audience to rile up, so extreme rhetoric will\nbe avoided.\n\nIn light of this information, I bought a lot of NO shares on Trump saying \"Tax Queen\", for ~30c per share. I bought 3500 shares, for a total cost of ~$1000.\n\nThe price was trading at ~70/30 for Yes/No, since Trump said it in his last rally (his last appearance was about remarks on the tax code, which is why he said the term.)\n\n## Dangers and ad-hoc narratives.\n\nThe most common mistake I make *currently* as a bettor on mention market is bidding on markets with bad odds. Trump can say anything at a rally, you never know what comes on his mind.\nEven if the base rates for a specific word are low, betting against him saying something for a high price is unwise. I made this mistake today, in fact, betting against him saying \"Vance\".\nHe said it, and I lost $1000 since shares were going for 50c.\n\nIt's also important not to create ad-hoc narratives ie a forced thesis. For example, if Trump is speaking at some event in Pennsylvania, more likely than not, his remarks will follow previous rallies.\nThere's no need to bet harder on things like the economy and the border at bad odds - as previously mentioned,\n\n> there are tons of opportunities to profit in MMs. Don't waste your money and over-bet.\n\nI've personally lost tons of money betting against Trump saying \"transgender\", because I placed value in where exactly he was making the rally, and in what setting, instead of considering the nature of the remark,\nwhich is to rile up voters at the *end* of his rallies as part of his prepared teleprompter remarks.\n\nThese markets are competitive in nature; if you give out tips for free, markets will become more efficient and you will lose income opportunities.\n\nIn fact, I would argue that if newcomers or irrational bettors didn't exist, the odds would fall out of my favor and I would not be able to make any lucrative bets.\n\n\n### Future\n\nAfter making ~$8000 from various bets on mention markets, I found that many veterans began to stop betting on them.\nI guess it's because base rate bets kept failing and there was no empirical evidence that their strategy worked.\n\nThe viability of these markets will come into question throughout the next few months - will polymarket stop promoting them given how unfavorable they are to newcomers?",
+          "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),b=(t,e)=>{for(var n in e)i(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!f.call(t,r)&&r!==n&&i(t,r,{get:()=>e[r],enumerable:!(o=p(e,r))||o.enumerable});return t};var y=(t,e,n)=>(n=t!=null?m(g(t)):{},s(e||!t||!t.__esModule?i(n,\"default\",{value:t,enumerable:!0}):n,t)),k=t=>s(i({},\"__esModule\",{value:!0}),t);var h=w((T,l)=>{l.exports=_jsx_runtime});var x={};b(x,{default:()=>c,frontmatter:()=>v});var a=y(h()),v={title:\"Mention Markets on Polymarket\",date:\"2024-10-13\",lastmod:\"2024-10-13\",tags:[\"finance\",\"prediction markets\",\"polymarket\"],draft:!1,summary:\"The fastest turnover bets on Polymarket and how I make a killing from time to time.\",images:[],authors:[\"default\"]};function d(t){let e={a:\"a\",blockquote:\"blockquote\",em:\"em\",h2:\"h2\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",...t.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"intro\",children:[(0,a.jsx)(e.a,{href:\"#intro\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Intro\"]}),(0,a.jsx)(e.p,{children:\"Mention markets on polymarket are probably the most toxic and unsettling markets on the platform.\"}),(0,a.jsx)(e.p,{children:\"This is because an individual's rhetoric is highly volatile and unpredictable, and waiting for them to finish a speech or mention something is very nerve-racking.\"}),(0,a.jsx)(e.p,{children:'Additionally, most newcomers to these markets fail, because they lack the information to predict \"seemingly trival\" events. (Unlike experienced MM bettors)'}),(0,a.jsxs)(e.p,{children:[\"Over time, however, good bettors have enough information to \",(0,a.jsx)(e.strong,{children:\"easily\"}),\" profit from their bets, at least in the long-run.\"]}),(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"strategy\",children:[(0,a.jsx)(e.a,{href:\"#strategy\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Strategy\"]}),(0,a.jsx)(e.p,{children:\"This is because speeches may be targeted based on the appearance. This may seem like a simple fact, and already 'priced-in', but polymarket suffers badly from recency bias.\"}),(0,a.jsx)(e.p,{children:\"If Trump doesn't say something in one rally, it's likely that its mention market odds for the next rally will be very low. The opposite is true if Trump says something a lot.\"}),(0,a.jsx)(e.p,{children:\"The key is to make small bets with high extrinsic value.\"}),(0,a.jsxs)(e.p,{children:['By \"small bets\", I mean you should bet based on the kelly criterion, but 1/2 or 1/4th of the recommended amount. This will prevent you from ',(0,a.jsx)(e.a,{href:\"/data/blog/blowing-up-the-single-most-important-hedge\",children:\"blowing up\"}),\".\"]}),(0,a.jsx)(e.p,{children:'By \"high intrinsic value\", I mean choose something with asymmetric odds. For example, if a rally is purportedly focusing on the economy, bet against the speaker saying border-related topics.'}),(0,a.jsx)(e.p,{children:\"Look at base rates to ensure the odds are well-priced in your favor.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"examples-personal-bets\",children:[(0,a.jsx)(e.a,{href:\"#examples-personal-bets\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Examples, personal bets\"]}),(0,a.jsxs)(e.p,{children:[\"The best example of a good bet I made on a mention market is on Trump's rally in Prarie Du Chen, Wisconsin. Looking at the \",(0,a.jsx)(e.a,{href:\"https://www.donaldjtrump.com/news/24f093a1-d3ed-4e1c-b58d-4975bc18d0cd\",children:\"press release\"}),\", (which apparently nobody looks at), it was obvious that the speech would be limited to remarks on the border,\"]}),(0,a.jsx)(e.p,{children:\"in addition to other current events, since Trump likes to ramble about those.\"}),(0,a.jsx)(e.p,{children:\"You can also see that the stage that Trump was performing at was very small, in fact, he was speaking at an elementary school. This implies he does not have a large audience to rile up, so extreme rhetoric will be avoided.\"}),(0,a.jsx)(e.p,{children:'In light of this information, I bought a lot of NO shares on Trump saying \"Tax Queen\", for ~30c per share. I bought 3500 shares, for a total cost of ~$1000.'}),(0,a.jsx)(e.p,{children:\"The price was trading at ~70/30 for Yes/No, since Trump said it in his last rally (his last appearance was about remarks on the tax code, which is why he said the term.)\"}),(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"dangers-and-ad-hoc-narratives\",children:[(0,a.jsx)(e.a,{href:\"#dangers-and-ad-hoc-narratives\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Dangers and ad-hoc narratives.\"]}),(0,a.jsxs)(e.p,{children:[\"The most common mistake I make \",(0,a.jsx)(e.em,{children:\"currently\"}),' as a bettor on mention market is bidding on markets with bad odds. Trump can say anything at a rally, you never know what comes on his mind. Even if the base rates for a specific word are low, betting against him saying something for a high price is unwise. I made this mistake today, in fact, betting against him saying \"Vance\". He said it, and I lost $1000 since shares were going for 50c.']}),(0,a.jsx)(e.p,{children:\"It's also important not to create ad-hoc narratives ie a forced thesis. For example, if Trump is speaking at some event in Pennsylvania, more likely than not, his remarks will follow previous rallies. There's no need to bet harder on things like the economy and the border at bad odds - as previously mentioned,\"}),(0,a.jsx)(e.blockquote,{children:(0,a.jsx)(e.p,{children:\"there are tons of opportunities to profit in MMs. Don't waste your money and over-bet.\"})}),(0,a.jsxs)(e.p,{children:[`I've personally lost tons of money betting against Trump saying \"transgender\", because I placed value in where exactly he was making the rally, and in what setting, instead of considering the nature of the remark, which is to rile up voters at the `,(0,a.jsx)(e.em,{children:\"end\"}),\" of his rallies as part of his prepared teleprompter remarks.\"]}),(0,a.jsx)(e.p,{children:\"These markets are competitive in nature; if you give out tips for free, markets will become more efficient and you will lose income opportunities.\"}),(0,a.jsx)(e.p,{children:\"In fact, I would argue that if newcomers or irrational bettors didn't exist, the odds would fall out of my favor and I would not be able to make any lucrative bets.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"future\",children:[(0,a.jsx)(e.a,{href:\"#future\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Future\"]}),(0,a.jsx)(e.p,{children:\"After making ~$8000 from various bets on mention markets, I found that many veterans began to stop betting on them. I guess it's because base rate bets kept failing and there was no empirical evidence that their strategy worked.\"}),(0,a.jsx)(e.p,{children:\"The viability of these markets will come into question throughout the next few months - will polymarket stop promoting them given how unfavorable they are to newcomers?\"})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}return k(x);})();\n;return Component;"
+        },
+        "_id": "blog/mention-markets-in-polymarket.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/mention-markets-in-polymarket.mdx",
+          "sourceFileName": "mention-markets-in-polymarket.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/mention-markets-in-polymarket"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "4 min read",
+          "minutes": 3.65,
+          "time": 219000,
+          "words": 730
+        },
+        "slug": "mention-markets-in-polymarket",
+        "path": "blog/mention-markets-in-polymarket",
+        "filePath": "blog/mention-markets-in-polymarket.mdx",
+        "toc": [
+          {
+            "value": "Intro",
+            "url": "#intro-114",
+            "depth": 2
+          },
+          {
+            "value": "Strategy",
+            "url": "#strategy-114",
+            "depth": 2
+          },
+          {
+            "value": "Examples, personal bets",
+            "url": "#examples-personal-bets-114",
+            "depth": 3
+          },
+          {
+            "value": "Dangers and ad-hoc narratives.",
+            "url": "#dangers-and-ad-hoc-narratives-114",
+            "depth": 2
+          },
+          {
+            "value": "Future",
+            "url": "#future-22",
+            "depth": 3
+          }
+        ],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Mention Markets on Polymarket",
+          "datePublished": "2024-10-13T00:00:00.000Z",
+          "dateModified": "2024-10-13T00:00:00.000Z",
+          "description": "The fastest turnover bets on Polymarket and how I make a killing from time to time.",
+          "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/mention-markets-in-polymarket"
+        }
+      },
+      "documentHash": "1728776741409",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    }
+  }
+}

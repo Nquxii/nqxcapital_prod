@@ -1,0 +1,52 @@
+{
+  "title": "Milk tea recipe",
+  "date": "2024-10-16T00:00:00.000Z",
+  "tags": [
+    "cooking"
+  ],
+  "lastmod": "2024-10-16T00:00:00.000Z",
+  "draft": true,
+  "summary": "Basic milk tea recipe",
+  "images": [],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\n# Milk tea recipe\n- boil milk on low heat for ~20mins\n- when it comes to a boil, add 2 teaspoons of black tea leaves (or 2 tea bags)\n- add ginger, cardamon, ect.\n- stir, and remove when the color is appropriate",
+    "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var f=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),k=(a,e)=>{for(var n in e)i(a,n,{get:e[n],enumerable:!0})},o=(a,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let l of u(e))!x.call(a,l)&&l!==n&&i(a,l,{get:()=>e[l],enumerable:!(r=p(e,l))||r.enumerable});return a};var w=(a,e,n)=>(n=a!=null?m(g(a)):{},o(e||!a||!a.__esModule?i(n,\"default\",{value:a,enumerable:!0}):n,a)),v=a=>o(i({},\"__esModule\",{value:!0}),a);var c=f((j,s)=>{s.exports=_jsx_runtime});var _={};k(_,{default:()=>h,frontmatter:()=>M});var t=w(c()),M={title:\"Milk tea recipe\",date:\"2024-10-16\",lastmod:\"2024-10-16\",tags:[\"cooking\"],draft:!0,summary:\"Basic milk tea recipe\",images:[],authors:[\"default\"]};function d(a){let e={a:\"a\",h1:\"h1\",li:\"li\",path:\"path\",span:\"span\",svg:\"svg\",ul:\"ul\",...a.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(e.h1,{className:\"content-header\",id:\"milk-tea-recipe\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#milk-tea-recipe\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Milk tea recipe\"]}),(0,t.jsxs)(e.ul,{children:[(0,t.jsx)(e.li,{children:\"boil milk on low heat for ~20mins\"}),(0,t.jsx)(e.li,{children:\"when it comes to a boil, add 2 teaspoons of black tea leaves (or 2 tea bags)\"}),(0,t.jsx)(e.li,{children:\"add ginger, cardamon, ect.\"}),(0,t.jsx)(e.li,{children:\"stir, and remove when the color is appropriate\"})]})]})}function h(a={}){let{wrapper:e}=a.components||{};return e?(0,t.jsx)(e,{...a,children:(0,t.jsx)(d,{...a})}):d(a)}return v(_);})();\n;return Component;"
+  },
+  "_id": "blog/milk-tea-recipe copy.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/milk-tea-recipe copy.mdx",
+    "sourceFileName": "milk-tea-recipe copy.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/milk-tea-recipe copy"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.22,
+    "time": 13200,
+    "words": 44
+  },
+  "slug": "milk-tea-recipe copy",
+  "path": "blog/milk-tea-recipe copy",
+  "filePath": "blog/milk-tea-recipe copy.mdx",
+  "toc": [
+    {
+      "value": "Milk tea recipe",
+      "url": "#milk-tea-recipe",
+      "depth": 1
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Milk tea recipe",
+    "datePublished": "2024-10-16T00:00:00.000Z",
+    "dateModified": "2024-10-16T00:00:00.000Z",
+    "description": "Basic milk tea recipe",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/milk-tea-recipe copy"
+  }
+}

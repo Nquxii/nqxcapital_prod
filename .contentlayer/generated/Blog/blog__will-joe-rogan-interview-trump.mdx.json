@@ -1,0 +1,59 @@
+{
+  "title": "Will Joe Rogan interview Trump before the election?",
+  "date": "2024-10-19T00:00:00.000Z",
+  "tags": [
+    "betting",
+    "prediction markets",
+    "polymarket"
+  ],
+  "lastmod": "2024-10-19T00:00:00.000Z",
+  "draft": false,
+  "summary": "Thought process on this bet",
+  "images": [],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "# Intro\nEarlier this month, Elon posted on twitter \"it will happen\", in response to a post asking whether or not Rogan would have Trump on his podcast.\n\nAfter consulting some people, I decided to bet against it on Polymarket.\n\n### Analysis\nLet's think about this in terms conditional probability before we get into the less systematic reasons\n\nPremise 1: Rogan is only interested in real long form (>3 hour) real discussion with pushback, not a rehearsed political interview. So no vetted questions or editing.\n\nPremise 2: Rogan would not accept a shorter less conversational (lex style) interveiw that went against P1\n\nPremise 3: Trump and his team are not comfortable with an unedited 3-hour interview with Rogan with pushback and challenging conversations where trump wouldnt be able to raillroad convos (like in the lex or theo von appearances)\n\nConclusion: Therefore, Joe Rogan will not interview Trump before the 2024 election, now 18 days away.\n\n\nPremise 1 can be evidenced by Rogan's statements (https://www.youtube.com/watch?v=MSSF0pyJpsY), personality, ect. It's clear to me that he does NOT want a low-quality interivew.\nThis logic can also apply to Premise 2, unless Rogan has a change of heart in a small amount of time. This also seems unlikely because his podcast with Trump would be his most popular.\n\nPremise 3 This can be evidenced by Trump's previous podcast appearances (e.g., Lex Fridman, Theo Von), where he often avoids answering tough policy questions and instead focuses on more personal or non-political topics to humanize himself. \nIn a video, Rogan mentions he would need to have \"hard conversations\" with Trump if an episode were to happen, which doesn't align with Trump's media strategy or messaging control.\n\nJoe has also in previous episodes expressed that he would be uncomfortable having such an impact on the election as he does not feel it is his place. He has also implied to not being truly on board with the  Trump train and Trumps personality.\n**It is impossible then, for Premise 1 to coexist with Premise 3.**\n\nAlong the lines of p3, we have to question what real benefit Trump gains from appearing on the Joe Rogan Experience (JRE). \nRogan's primary audience consists of males, many of whom are likely already part of Trump's base—predominantly white, male, and middle-aged (we dont even have to mention that the avg jre listener is a trump supporter). \nJoe having a hard conversation poking holes in the trumps policy and charactar will likely only have negative implications. \nDespite a Trump appearance on Joe Rogan's show likely being mostly positive in terms of audience reception there is just very little upside given the risk of being challenged on tougher topics which may outweigh the minimal benefits of preaching to the choir.\n\n\nAs a result, it is unlikely **(~20% probability)** that Trump will interview Rogan.\n\nIt should be noted that Trump and Elon's statements do not reflect Rogan's personal views. Elon, being on the spectrum, may exaggerate his influence on Rogan, and Trump himself does not know whether or not he is\ndoing the interview. In fact, his camp has been declining interviews more [frequently as of late](https://www.politico.com/live-updates/2024/10/18/2024-elections-live-coverage-updates-analysis/trump-skips-another-interview-00184327).",
+    "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var w=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var v=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var a in e)o(t,a,{get:e[a],enumerable:!0})},r=(t,e,a,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!g.call(t,i)&&i!==a&&o(t,i,{get:()=>e[i],enumerable:!(s=m(e,i))||s.enumerable});return t};var y=(t,e,a)=>(a=t!=null?d(w(t)):{},r(e||!t||!t.__esModule?o(a,\"default\",{value:t,enumerable:!0}):a,t)),b=t=>r(o({},\"__esModule\",{value:!0}),t);var h=v((R,l)=>{l.exports=_jsx_runtime});var x={};f(x,{default:()=>p,frontmatter:()=>T});var n=y(h()),T={title:\"Will Joe Rogan interview Trump before the election?\",date:\"2024-10-19\",lastmod:\"2024-10-19\",tags:[\"betting\",\"prediction markets\",\"polymarket\"],draft:!1,summary:\"Thought process on this bet\",images:[],authors:[\"default\"]};function c(t){let e={a:\"a\",h1:\"h1\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h1,{className:\"content-header\",id:\"intro\",children:[(0,n.jsx)(e.a,{href:\"#intro\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Intro\"]}),(0,n.jsx)(e.p,{children:'Earlier this month, Elon posted on twitter \"it will happen\", in response to a post asking whether or not Rogan would have Trump on his podcast.'}),(0,n.jsx)(e.p,{children:\"After consulting some people, I decided to bet against it on Polymarket.\"}),(0,n.jsxs)(e.h3,{className:\"content-header\",id:\"analysis\",children:[(0,n.jsx)(e.a,{href:\"#analysis\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Analysis\"]}),(0,n.jsx)(e.p,{children:\"Let's think about this in terms conditional probability before we get into the less systematic reasons\"}),(0,n.jsx)(e.p,{children:\"Premise 1: Rogan is only interested in real long form (>3 hour) real discussion with pushback, not a rehearsed political interview. So no vetted questions or editing.\"}),(0,n.jsx)(e.p,{children:\"Premise 2: Rogan would not accept a shorter less conversational (lex style) interveiw that went against P1\"}),(0,n.jsx)(e.p,{children:\"Premise 3: Trump and his team are not comfortable with an unedited 3-hour interview with Rogan with pushback and challenging conversations where trump wouldnt be able to raillroad convos (like in the lex or theo von appearances)\"}),(0,n.jsx)(e.p,{children:\"Conclusion: Therefore, Joe Rogan will not interview Trump before the 2024 election, now 18 days away.\"}),(0,n.jsxs)(e.p,{children:[\"Premise 1 can be evidenced by Rogan's statements (\",(0,n.jsx)(e.a,{href:\"https://www.youtube.com/watch?v=MSSF0pyJpsY\",children:\"https://www.youtube.com/watch?v=MSSF0pyJpsY\"}),\"), personality, ect. It's clear to me that he does NOT want a low-quality interivew. This logic can also apply to Premise 2, unless Rogan has a change of heart in a small amount of time. This also seems unlikely because his podcast with Trump would be his most popular.\"]}),(0,n.jsx)(e.p,{children:`Premise 3 This can be evidenced by Trump's previous podcast appearances (e.g., Lex Fridman, Theo Von), where he often avoids answering tough policy questions and instead focuses on more personal or non-political topics to humanize himself. In a video, Rogan mentions he would need to have \"hard conversations\" with Trump if an episode were to happen, which doesn't align with Trump's media strategy or messaging control.`}),(0,n.jsxs)(e.p,{children:[\"Joe has also in previous episodes expressed that he would be uncomfortable having such an impact on the election as he does not feel it is his place. He has also implied to not being truly on board with the Trump train and Trumps personality. \",(0,n.jsx)(e.strong,{children:\"It is impossible then, for Premise 1 to coexist with Premise 3.\"})]}),(0,n.jsx)(e.p,{children:\"Along the lines of p3, we have to question what real benefit Trump gains from appearing on the Joe Rogan Experience (JRE). Rogan's primary audience consists of males, many of whom are likely already part of Trump's base\\u2014predominantly white, male, and middle-aged (we dont even have to mention that the avg jre listener is a trump supporter). Joe having a hard conversation poking holes in the trumps policy and charactar will likely only have negative implications. Despite a Trump appearance on Joe Rogan's show likely being mostly positive in terms of audience reception there is just very little upside given the risk of being challenged on tougher topics which may outweigh the minimal benefits of preaching to the choir.\"}),(0,n.jsxs)(e.p,{children:[\"As a result, it is unlikely \",(0,n.jsx)(e.strong,{children:\"(~20% probability)\"}),\" that Trump will interview Rogan.\"]}),(0,n.jsxs)(e.p,{children:[\"It should be noted that Trump and Elon's statements do not reflect Rogan's personal views. Elon, being on the spectrum, may exaggerate his influence on Rogan, and Trump himself does not know whether or not he is doing the interview. In fact, his camp has been declining interviews more \",(0,n.jsx)(e.a,{href:\"https://www.politico.com/live-updates/2024/10/18/2024-elections-live-coverage-updates-analysis/trump-skips-another-interview-00184327\",children:\"frequently as of late\"}),\".\"]})]})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(c,{...t})}):c(t)}return b(x);})();\n;return Component;"
+  },
+  "_id": "blog/will-joe-rogan-interview-trump.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/will-joe-rogan-interview-trump.mdx",
+    "sourceFileName": "will-joe-rogan-interview-trump.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/will-joe-rogan-interview-trump"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "3 min read",
+    "minutes": 2.605,
+    "time": 156300,
+    "words": 521
+  },
+  "slug": "will-joe-rogan-interview-trump",
+  "path": "blog/will-joe-rogan-interview-trump",
+  "filePath": "blog/will-joe-rogan-interview-trump.mdx",
+  "toc": [
+    {
+      "value": "Intro",
+      "url": "#intro",
+      "depth": 1
+    },
+    {
+      "value": "Analysis",
+      "url": "#analysis",
+      "depth": 3
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Will Joe Rogan interview Trump before the election?",
+    "datePublished": "2024-10-19T00:00:00.000Z",
+    "dateModified": "2024-10-19T00:00:00.000Z",
+    "description": "Thought process on this bet",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/will-joe-rogan-interview-trump"
+  }
+}

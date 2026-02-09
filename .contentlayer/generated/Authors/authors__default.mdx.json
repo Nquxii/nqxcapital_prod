@@ -1,0 +1,31 @@
+{
+  "name": "nqx",
+  "avatar": null,
+  "occupation": "Founder",
+  "company": "NQX Capital",
+  "twitter": "https://twitter.com/nqx_capital",
+  "linkedin": null,
+  "body": {
+    "raw": "\nUniversity student and part time gambler. You can contact me on [X](https://twitter.com/nqx_capital) or at nqx_capital (at) pm (dot) me.",
+    "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var _=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var h=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},i=(t,n,e,c)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of d(n))!f.call(t,o)&&o!==e&&r(t,o,{get:()=>n[o],enumerable:!(c=x(n,o))||c.enumerable});return t};var q=(t,n,e)=>(e=t!=null?u(_(t)):{},i(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),w=t=>i(r({},\"__esModule\",{value:!0}),t);var m=h((M,s)=>{s.exports=_jsx_runtime});var y={};j(y,{default:()=>l,frontmatter:()=>X});var a=q(m()),X={name:\"nqx\",avatar:null,occupation:\"Founder\",company:\"NQX Capital\",twitter:\"https://twitter.com/nqx_capital\",linkedin:null};function p(t){let n={a:\"a\",p:\"p\",...t.components};return(0,a.jsxs)(n.p,{children:[\"University student and part time gambler. You can contact me on \",(0,a.jsx)(n.a,{href:\"https://twitter.com/nqx_capital\",children:\"X\"}),\" or at nqx_capital (at) pm (dot) me.\"]})}function l(t={}){let{wrapper:n}=t.components||{};return n?(0,a.jsx)(n,{...t,children:(0,a.jsx)(p,{...t})}):p(t)}return w(y);})();\n;return Component;"
+  },
+  "_id": "authors/default.mdx",
+  "_raw": {
+    "sourceFilePath": "authors/default.mdx",
+    "sourceFileName": "default.mdx",
+    "sourceFileDir": "authors",
+    "contentType": "mdx",
+    "flattenedPath": "authors/default"
+  },
+  "type": "Authors",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.095,
+    "time": 5700,
+    "words": 19
+  },
+  "slug": "default",
+  "path": "authors/default",
+  "filePath": "authors/default.mdx",
+  "toc": []
+}

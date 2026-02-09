@@ -1,0 +1,44 @@
+{
+  "title": "Title",
+  "date": "2024-11-24T00:00:00.000Z",
+  "tags": [],
+  "lastmod": "2024-11-24T00:00:00.000Z",
+  "draft": false,
+  "summary": "Mistakes",
+  "images": [],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nThe average risk-taker will ",
+    "code": "var Component=(()=>{var d=Object.create;var a=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,_=Object.prototype.hasOwnProperty;var h=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),M=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},i=(t,e,n,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of x(e))!_.call(t,r)&&r!==n&&a(t,r,{get:()=>e[r],enumerable:!(s=f(e,r))||s.enumerable});return t};var g=(t,e,n)=>(n=t!=null?d(p(t)):{},i(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),j=t=>i(a({},\"__esModule\",{value:!0}),t);var m=h((C,c)=>{c.exports=_jsx_runtime});var w={};M(w,{default:()=>u,frontmatter:()=>k});var o=g(m()),k={title:\"Title\",date:\"2024-11-24\",lastmod:\"2024-11-24\",tags:[],draft:!1,summary:\"Mistakes\",images:[],authors:[\"default\"]};function l(t){let e={p:\"p\",...t.components};return(0,o.jsx)(e.p,{children:\"The average risk-taker will\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,o.jsx)(e,{...t,children:(0,o.jsx)(l,{...t})}):l(t)}return j(w);})();\n;return Component;"
+  },
+  "_id": "blog/BASE_TEMPLATE111111111111111.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/BASE_TEMPLATE111111111111111.mdx",
+    "sourceFileName": "BASE_TEMPLATE111111111111111.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/BASE_TEMPLATE111111111111111"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.02,
+    "time": 1200,
+    "words": 4
+  },
+  "slug": "BASE_TEMPLATE111111111111111",
+  "path": "blog/BASE_TEMPLATE111111111111111",
+  "filePath": "blog/BASE_TEMPLATE111111111111111.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Title",
+    "datePublished": "2024-11-24T00:00:00.000Z",
+    "dateModified": "2024-11-24T00:00:00.000Z",
+    "description": "Mistakes",
+    "url": "https://tailwind-nextjs-starter-blog.vercel.app/blog/BASE_TEMPLATE111111111111111"
+  }
+}

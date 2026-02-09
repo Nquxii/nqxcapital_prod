@@ -1,0 +1,64 @@
+[
+  {
+    "name": "dan a.",
+    "avatar": "/static/images/henri.jpg",
+    "occupation": "Co-Founder",
+    "company": null,
+    "twitter": null,
+    "linkedin": null,
+    "body": {
+      "raw": "\nCo-founder, NQX Capital",
+      "code": "var Component=(()=>{var s=Object.create;var r=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,C=Object.prototype.hasOwnProperty;var _=(n,t)=>()=>(t||n((t={exports:{}}).exports,t),t.exports),j=(n,t)=>{for(var e in t)r(n,e,{get:t[e],enumerable:!0})},i=(n,t,e,c)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of x(t))!C.call(n,o)&&o!==e&&r(n,o,{get:()=>t[o],enumerable:!(c=d(t,o))||c.enumerable});return n};var h=(n,t,e)=>(e=n!=null?s(f(n)):{},i(t||!n||!n.__esModule?r(e,\"default\",{value:n,enumerable:!0}):e,n)),M=n=>i(r({},\"__esModule\",{value:!0}),n);var l=_((y,u)=>{u.exports=_jsx_runtime});var g={};j(g,{default:()=>p,frontmatter:()=>X});var a=h(l()),X={name:\"dan a.\",avatar:\"/static/images/henri.jpg\",occupation:\"Co-Founder\",company:null,twitter:null,linkedin:null};function m(n){let t={p:\"p\",...n.components};return(0,a.jsx)(t.p,{children:\"Co-founder, NQX Capital\"})}function p(n={}){let{wrapper:t}=n.components||{};return t?(0,a.jsx)(t,{...n,children:(0,a.jsx)(m,{...n})}):m(n)}return M(g);})();\n;return Component;"
+    },
+    "_id": "authors/dan_a.mdx",
+    "_raw": {
+      "sourceFilePath": "authors/dan_a.mdx",
+      "sourceFileName": "dan_a.mdx",
+      "sourceFileDir": "authors",
+      "contentType": "mdx",
+      "flattenedPath": "authors/dan_a"
+    },
+    "type": "Authors",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.015,
+      "time": 900,
+      "words": 3
+    },
+    "slug": "dan_a",
+    "path": "authors/dan_a",
+    "filePath": "authors/dan_a.mdx",
+    "toc": []
+  },
+  {
+    "name": "nqx",
+    "avatar": null,
+    "occupation": "Founder",
+    "company": "NQX Capital",
+    "twitter": "https://twitter.com/nqx_capital",
+    "linkedin": null,
+    "body": {
+      "raw": "\nUniversity student and part time gambler. You can contact me on [X](https://twitter.com/nqx_capital) or at nqx_capital (at) pm (dot) me.",
+      "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var _=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var h=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},i=(t,n,e,c)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of d(n))!f.call(t,o)&&o!==e&&r(t,o,{get:()=>n[o],enumerable:!(c=x(n,o))||c.enumerable});return t};var q=(t,n,e)=>(e=t!=null?u(_(t)):{},i(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),w=t=>i(r({},\"__esModule\",{value:!0}),t);var m=h((M,s)=>{s.exports=_jsx_runtime});var y={};j(y,{default:()=>l,frontmatter:()=>X});var a=q(m()),X={name:\"nqx\",avatar:null,occupation:\"Founder\",company:\"NQX Capital\",twitter:\"https://twitter.com/nqx_capital\",linkedin:null};function p(t){let n={a:\"a\",p:\"p\",...t.components};return(0,a.jsxs)(n.p,{children:[\"University student and part time gambler. You can contact me on \",(0,a.jsx)(n.a,{href:\"https://twitter.com/nqx_capital\",children:\"X\"}),\" or at nqx_capital (at) pm (dot) me.\"]})}function l(t={}){let{wrapper:n}=t.components||{};return n?(0,a.jsx)(n,{...t,children:(0,a.jsx)(p,{...t})}):p(t)}return w(y);})();\n;return Component;"
+    },
+    "_id": "authors/default.mdx",
+    "_raw": {
+      "sourceFilePath": "authors/default.mdx",
+      "sourceFileName": "default.mdx",
+      "sourceFileDir": "authors",
+      "contentType": "mdx",
+      "flattenedPath": "authors/default"
+    },
+    "type": "Authors",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.095,
+      "time": 5700,
+      "words": 19
+    },
+    "slug": "default",
+    "path": "authors/default",
+    "filePath": "authors/default.mdx",
+    "toc": []
+  }
+]
