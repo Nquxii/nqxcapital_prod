@@ -2,15 +2,11 @@
 
 import blog__introductionMdx from './blog__introduction.mdx.json' with { type: 'json' }
 import blog__mentionMarketsInPolymarketMdx from './blog__mention-markets-in-polymarket.mdx.json' with { type: 'json' }
-import blog__nqxCapitalYearInReviewMdx from './blog__nqx-capital-year-in-review.mdx.json' with { type: 'json' }
-import blog__principlesMdx from './blog__principles.mdx.json' with { type: 'json' }
+import blog__metaThesisMdx from './blog__meta-thesis.mdx.json' with { type: 'json' }
+import blog__milkTeaRecipeMdx from './blog__milk-tea-recipe.mdx.json' with { type: 'json' }
 import blog__runningItBackMdx from './blog__running-it-back.mdx.json' with { type: 'json' }
 import blog__smciThesisMdx from './blog__smci-thesis.mdx.json' with { type: 'json' }
-import blog__theBigShortApr2025Mdx from './blog__the-big-short-apr2025.mdx.json' with { type: 'json' }
-import blog__theTrumpTradeMdx from './blog__the-trump-trade.mdx.json' with { type: 'json' }
-import blog__the_finaleMdx from './blog__the_finale.mdx.json' with { type: 'json' }
-import blog__usefulLinksMdx from './blog__useful-links.mdx.json' with { type: 'json' }
-import blog__milkTeaRecipeMdx from './blog__milk-tea-recipe.mdx.json' with { type: 'json' }
 import blog__willJoeRoganInterviewTrumpMdx from './blog__will-joe-rogan-interview-trump.mdx.json' with { type: 'json' }
+import blog__investmentStrategyMdx from './blog__investment-strategy.mdx.json' with { type: 'json' }
 
-export const allBlogs = [blog__introductionMdx, blog__mentionMarketsInPolymarketMdx, blog__nqxCapitalYearInReviewMdx, blog__principlesMdx, blog__runningItBackMdx, blog__smciThesisMdx, blog__theBigShortApr2025Mdx, blog__theTrumpTradeMdx, blog__the_finaleMdx, blog__usefulLinksMdx, blog__milkTeaRecipeMdx, blog__willJoeRoganInterviewTrumpMdx]
+export const allBlogs = [blog__introductionMdx, blog__mentionMarketsInPolymarketMdx, blog__metaThesisMdx, blog__milkTeaRecipeMdx, blog__runningItBackMdx, blog__smciThesisMdx, blog__willJoeRoganInterviewTrumpMdx, blog__investmentStrategyMdx]
