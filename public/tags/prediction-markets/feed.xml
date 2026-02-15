@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>nqx capital</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>Est. 2024</description>
+      <language>en-us</language>
+      <managingEditor>address@yoursite.com (Nqx)</managingEditor>
+      <webMaster>address@yoursite.com (Nqx)</webMaster>
+      <lastBuildDate>Sun, 13 Oct 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/prediction-markets/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mention-markets-in-polymarket</guid>
+    <title>Mention Markets on Polymarket</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mention-markets-in-polymarket</link>
+    <description>The fastest turnover bets on Polymarket and how I make a killing from time to time.</description>
+    <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Nqx)</author>
+    <category>betting</category><category>prediction markets</category><category>polymarket</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/will-joe-rogan-interview-trump</guid>
+    <title>Will Joe Rogan interview Trump before the election?</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/will-joe-rogan-interview-trump</link>
+    <description>Thought process on this bet</description>
+    <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Nqx)</author>
+    <category>betting</category><category>prediction markets</category><category>polymarket</category>
+  </item>
+
+    </channel>
+  </rss>

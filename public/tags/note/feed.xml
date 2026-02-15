@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>nqx capital</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>Est. 2024</description>
+      <language>en-us</language>
+      <managingEditor>address@yoursite.com (Nqx)</managingEditor>
+      <webMaster>address@yoursite.com (Nqx)</webMaster>
+      <lastBuildDate>Thu, 24 Oct 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/note/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/running-it-back</guid>
+    <title>Running it back from $10k -&gt; $6.5k</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/running-it-back</link>
+    <description>Running it back after going from a portfolio of 10k -&gt; 7k.</description>
+    <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Nqx)</author>
+    <category>note</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -27,16 +27,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/about/page.js"
     ],
-    "/tags/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/tags/page.js"
-    ],
-    "/tags/[tag]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/tags/[tag]/page.js"
-    ],
     "/blog/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",

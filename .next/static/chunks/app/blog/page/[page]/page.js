@@ -398,7 +398,7 @@ eval(__webpack_require__.ts("\n\nif (false) {} else {\n  module.exports = __webp
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"stock-market":2,"thesis":2,"note":1,"betting":2,"prediction-markets":2,"polymarket":2,"cooking":1,"manifesto":1}');
+module.exports = /*#__PURE__*/JSON.parse('{"manifesto":2,"stock-market":1,"thesis":1,"note":1,"betting":2,"prediction-markets":2,"polymarket":2,"cooking":1}');
 
 /***/ })
 
